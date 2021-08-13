@@ -1,0 +1,14 @@
+/************************************************************************
+> File name: cardCenter.css
+> Project name: vulnerable-bulletin-board
+> Author: Shin Chan-Gyu
+> Purpose: To center the bootstrap card
+> Copyright (c) 2021, Shin Chan-Gyu
+*************************************************************************/
+
+.formStyle {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+}
